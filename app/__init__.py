@@ -1,0 +1,1 @@
+"""Cortexa backend application package."""
